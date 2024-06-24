@@ -8,5 +8,5 @@
 
 4. Used Modular coding to test/pass the data through multiple Multiclass ML models like SVC,KNNClassifier,RandomForestClassifier,XGBClassifier etc
 
-5. Performed detailed Hyperparameter tunning for each of the ML algorithm above to find optimal parameter values and generalized model for the data.
+5. Performed detailed Hyperparameter tunning for each of the ML algorithm above to find optimal parameter values and generalized model for the data which was RandomForestClassifier model with 95.7% accuracy.
 
